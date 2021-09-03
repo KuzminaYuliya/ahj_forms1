@@ -1,5 +1,5 @@
 {
-  "name": "ahj_testing",
+  "name": "ahj_forms1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
     "e2e": "jest --testPathPattern=./e2e/"
   },
   "repository": {
-    "url": "https://github.com/KuzminaYuliya/ahj_testing/issues",
+    "url": "https://github.com/KuzminaYuliya/ahj_forms1/issues",
     "type": "git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KuzminaYuliya/ahj_testing/issues"
+    "url": "https://github.com/KuzminaYuliya/ahj_forms1/issues"
   },
-  "homepage": "https://github.com/KuzminaYuliya/ahj_testing#readme",
+  "homepage": "https://github.com/KuzminaYuliya/ahj_forms1#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",
